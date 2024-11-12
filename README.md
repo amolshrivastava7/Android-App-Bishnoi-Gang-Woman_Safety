@@ -1,6 +1,6 @@
+## THE CODE IS IN MASTER BRANCH!!!!!
 # Bishnoi Gang Women Safety Android App
 This repo is for our Android App
-## THE CODE IS IN MASTER BRANCH
 
 The **Bishnoi Gang Women Safety Android App** is a mobile application designed for women's safety, providing real-time alerts and emergency assistance through a WebView that integrates with the web-based Bishnoi Gang Women Safety Alert System. This app leverages Android's WebView to bring all the features of the web platform into a native mobile experience with essential permissions for seamless operation.
 
