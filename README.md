@@ -1,4 +1,4 @@
-## THE SOURCE CODE IS IN MASTER BRANCH !!!!!!!!
+## 🗣️🗣️ THE SOURCE CODE IS IN MASTER BRANCH NOT IN MAIN BRANCH !!!!!!!!
 # Bishnoi Gang Women Safety Android App
 This repo is for our Android App
 
